@@ -2,17 +2,6 @@ body {
     margin: 0;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    margin: 0;
-    font-family: 'Muli', sans-serif;
-    font-size: 30px;
-    color:aliceblue;
-}
-
-p {
-    margin: 0;
-}
-
 *,
 *:before,
 *:after {
@@ -40,6 +29,7 @@ p {
     flex: 0.5;
     background-position: center;
     transition: 1.5s;
+    cursor: pointer;
 }
 
 .gallery__section:last-child {
@@ -50,6 +40,10 @@ p {
     position: absolute;
     bottom: 2%;
     left: 10%;
+    margin: 0;
+    font-family: 'Muli', sans-serif;
+    font-size: 30px;
+    color:aliceblue;
 }
 
 .gallery__section_active {
