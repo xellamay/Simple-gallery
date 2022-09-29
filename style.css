@@ -30,6 +30,7 @@ body {
     background-position: center;
     transition: 1.5s;
     cursor: pointer;
+    background: no-repeat;
 }
 
 .gallery__section:last-child {

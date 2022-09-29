@@ -4,7 +4,7 @@
 Реализована десктоп и мобильная версия.
 
 
-![скриншот](/img/animation.gif)
+![скриншот](./img/animation.gif)
 
 ### Демо можно посмотреть [тут](https://xellamay.github.io/Simple-gallery/)
 
